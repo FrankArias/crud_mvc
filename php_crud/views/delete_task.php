@@ -11,7 +11,7 @@
         }
         $_SESSION['message'] = 'Task Remove Successfully';
         $_SESSION['message_type'] = 'danger';
-        header("Location: index.php");
+        header("Location: /MVC/php_crud/index.php");
 
     }
 

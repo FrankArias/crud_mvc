@@ -23,7 +23,7 @@
 
         $_SESSION['message']  = 'Task Update Succesfully';
         $_SESSION['message_type'] = 'warning';
-        header("Location: index.php");
+        header("Location: /MVC/php_crud/index.php");
     }
 ?>
 

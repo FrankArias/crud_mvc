@@ -71,6 +71,7 @@
              </table>
         </div>
     </div>
+    <a href="views/logout.php">Logout</a>
 </div>
 
 
